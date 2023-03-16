@@ -1,5 +1,5 @@
 {
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/Accolade/chat?domainCode=healthmemberservices",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/evbox/chat?domainCode=evbox",
   "chatUrl": "https://us.demo.amelia.com/Amelia/ui/rate/",
-  "clientUrl": "https://www.virginpulse.com/"
+  "clientUrl": "https://evbox.com/en/"
 }
