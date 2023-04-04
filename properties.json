@@ -1,5 +1,5 @@
 {
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/evbox/chat?domainCode=evbox",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/rate/",
-  "clientUrl": "https://evbox.com/en/"
+  "ameliaUrl": "https://jewelers.demo.amelia.com/Amelia/ui/jewelers/chat?domainCode=jewelers",
+  "chatUrl": "https://jewelers.demo.amelia.com/Amelia/ui/rate/",
+  "clientUrl": "https://www.jewelersmutual.com/"
 }
